@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Walpaperer</string>
+    <string name="action_settings">Settings</string>
+    <string name="likes_label">Likes</string>
+    <string name="favorites_label">Favorites:</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
